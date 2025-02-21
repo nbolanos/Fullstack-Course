@@ -1,0 +1,6 @@
+html body table th {
+    font-weight: normal;
+    display: contents;
+    padding: 10px;
+    width: 200px;
+ }
